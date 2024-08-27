@@ -1,3 +1,3 @@
 # insert-functions-repo
 
-Repository of inser functions to be deployed in Segment platform
+Repository of insert functions to be deployed in Segment platform
